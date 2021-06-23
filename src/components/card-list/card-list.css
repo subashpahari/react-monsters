@@ -1,0 +1,8 @@
+.card-list{
+    padding: 10px;
+    width: 100%;
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 15px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
